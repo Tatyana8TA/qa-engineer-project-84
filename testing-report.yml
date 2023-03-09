@@ -34,7 +34,7 @@
     
 - summary: |
     Корзина хранится в сессии браузера.
-  status: pass
+  status: fail
   
 - summary: |
     Мультиязычность
